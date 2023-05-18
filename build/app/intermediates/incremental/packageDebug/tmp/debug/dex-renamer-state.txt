@@ -1,0 +1,4 @@
+#Wed May 17 11:47:29 IST 2023
+base.0=/home/redoq/Documents/Flutter/Test Application/Flutter-All-In-One/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
