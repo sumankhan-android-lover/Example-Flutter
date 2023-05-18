@@ -1,7 +1,6 @@
 # flutter_all_in_one
 
-A new Flutter project. I'm learning flutter. This file are same of code.
-
+A new Flutter project. I'm learning flutter. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
